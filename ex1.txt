@@ -1,0 +1,12 @@
+Khái niệm: 
+   Web components là một tập các quy chuẩn công nghệ dùng cho việc xây dựng các thành phần trang web được đóng gói 
+   (tách biệt với phần code còn lại của ứng dụng) và có thể tái sử dụng.
+
+Custom Elements: là tập hợp các API của Javascript để cho phép tạo ra các thành phần web tuỳ chỉnh
+
+Shadow DOM: là tập hợp các API của Javascript để gắn một cây DOM “shadow” vào một thành phần của DOM,
+            cây DOM này được quản lý riêng biệt và render riêng với cây DOM chính, do vậy nó có thể 
+            được đóng gói lại để sử dụng cho các ứng dụng khác nhau.
+            
+HTML templates: Dùng để tạo ra các template từ đó được render ra trang web. Khái niệm này tương đối giống với một số framework 
+                khác như angular hay react.js
